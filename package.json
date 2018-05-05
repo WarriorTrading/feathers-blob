@@ -1,8 +1,8 @@
 {
   "name": "feathers-blob",
   "description": "Feathers blob service",
-  "version": "2.0.0",
-  "homepage": "https://github.com/feathersjs-ecosystem/feathers-blob",
+  "version": "2.0.1",
+  "homepage": "https://github.com/WarriorTrading/feathers-blob",
   "main": "lib/",
   "keywords": [
     "feathers",
@@ -18,16 +18,16 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feathersjs-ecosystem/feathers-blob.git"
+    "url": "git://github.com/WarriorTrading/feathers-blob.git"
   },
   "author": {
     "name": "Feathers contributors",
-    "email": "hello@feathersjs.com",
-    "url": "https://feathersjs.com"
+    "email": "jacky.liu@gmail.com",
+    "url": "https://WarriorTrading.com"
   },
   "contributors": [],
   "bugs": {
-    "url": "https://github.com/feathersjs-ecosystem/feathers-blob/issues"
+    "url": "https://github.com/WarriorTrading/feathers-blob/issues"
   },
   "engines": {
     "node": ">= 6"
